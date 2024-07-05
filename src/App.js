@@ -1,24 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
-
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.min.css";
+import AppBar from "./components/AppBar";
+import Banner from "./components/Banner";
+import Menu from "./components/Menu";
+import PickoftheWeek from "./components/PickoftheWeek";
+import Comments from "./components/Comments";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <AppBar />
+      <Banner />
+      <Menu />
+      <PickoftheWeek />
+      <Comments />
+      <div className="text-center my-3 text-danger small">
+        Copyright 2024-2025
+      </div>
+    </>
   );
 }
 
