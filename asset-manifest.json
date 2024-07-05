@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pizzasite-react/static/css/main.b1691a65.css",
+    "main.js": "/pizzasite-react/static/js/main.57ac06f4.js",
+    "static/js/453.f33d9648.chunk.js": "/pizzasite-react/static/js/453.f33d9648.chunk.js",
+    "static/media/center.jpeg": "/pizzasite-react/static/media/center.73e62d9a568c4d07817a.jpeg",
+    "static/media/bootstrap-icons.woff?": "/pizzasite-react/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/pizzasite-react/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/two.jpeg": "/pizzasite-react/static/media/two.08defbaa3dd2dad5e91a.jpeg",
+    "static/media/three.jpeg": "/pizzasite-react/static/media/three.926b139af6f77ede7311.jpeg",
+    "static/media/one.jpeg": "/pizzasite-react/static/media/one.a1862783dee2487adabf.jpeg",
+    "static/media/pizza.jpeg": "/pizzasite-react/static/media/pizza.181716424c1986e38758.jpeg",
+    "index.html": "/pizzasite-react/index.html",
+    "main.b1691a65.css.map": "/pizzasite-react/static/css/main.b1691a65.css.map",
+    "main.57ac06f4.js.map": "/pizzasite-react/static/js/main.57ac06f4.js.map",
+    "453.f33d9648.chunk.js.map": "/pizzasite-react/static/js/453.f33d9648.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1691a65.css",
+    "static/js/main.57ac06f4.js"
+  ]
+}
